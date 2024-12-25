@@ -1,6 +1,7 @@
 # Run-parties-program
 
 RunParties Program Summary 🥳
+
 The RunParties application is a Java-based program designed to manage different types of party events. 
 
 It provides functionalities for adding parties, updating costs, and displaying invitations through a console-based menu system.
