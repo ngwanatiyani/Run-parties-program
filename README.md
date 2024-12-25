@@ -1,6 +1,7 @@
 # Run-parties-program
 
 RunParties Program Summary 🥳
+![Java](https://skillicons.dev/icons?i=java)
 
 The RunParties application is a Java-based program designed to manage different types of party events. 
 
